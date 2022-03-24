@@ -1,7 +1,10 @@
-
-![Pierre-Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pierre-Nicolas-D-C&count_private=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pierre-Nicolas-D-C)
 ### Hi there 👋
+
+### Languages and Tools: 
+![Pierre-Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pierre-Nicolas-D-C&count_private=true&bg_color=0e1117&border_color=0e1117)
+&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pierre-Nicolas-D-C&bg_color=0e1117&border_color=0e1117)
+
 <!--
 **Pierre-Nicolas-D-C/Pierre-Nicolas-D-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
