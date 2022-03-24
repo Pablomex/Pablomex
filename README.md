@@ -1,5 +1,6 @@
-### Hi there 👋
 ![Fond](https://github.com/Pierre-Nicolas-D-C/Pierre-Nicolas-D-C/blob/main/img/fond.jpg)
+[![Pierre-Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pierre-Nicolas-D-C)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋
 <!--
 **Pierre-Nicolas-D-C/Pierre-Nicolas-D-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
