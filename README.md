@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 ### Connect with me:
+<!--
+[![img_contact](./img/globe-light.svg)](https://mikecodeur.com#gh-light-mode-only)
+[![img_contact](./img/globe-dark.svg)](https://mikecodeur.com#gh-dark-mode-only)
+&nbsp;&nbsp;-->
 
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/pierrenicolasdespoissechagot/#gh-light-mode-only)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/pierrenicolasdespoissechagot/#gh-dark-mode-only)
