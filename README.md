@@ -3,7 +3,7 @@
 - I'm a french fullstack javascript developper, I also speak english and spanish,
 - 📽 I previously worked as camera technician in cinema,
 - 💻 Passionate about technology I've decided to learn web developpement in 2021,
-- 👋🏼 I'm currently searching for an apprenticeship in Paris starting in june or october 2022.
+- 👋🏼 I'm currently in an apprenticeship with Ubisoft in Paris until january 2024 as a Web assistant developer.
 
 ### Connect with me
 
